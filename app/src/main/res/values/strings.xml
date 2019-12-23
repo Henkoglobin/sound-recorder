@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sound Recorder</string>
+    <string name="max_amplitude">Max amplitude: %1$d</string>
+</resources>
